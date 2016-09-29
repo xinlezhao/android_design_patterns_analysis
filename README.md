@@ -36,3 +36,4 @@
 * [Java与模式](http://item.jd.com/10094286.html)
 * [java-design-patterns](https://github.com/iluwatar/java-design-patterns)
 * [Java之美[从菜鸟到高手演变]之设计模式](http://blog.csdn.net/zhangerqing/article/details/8194653)
+test
